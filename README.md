@@ -22,6 +22,5 @@ Welcome to my GitHub profile! I'm a dedicated front-end developer from Brazil, p
 ## 📫 Get in Touch
 
 - **Email**: rayam.io.fonseca@gmail.com
-- **LinkedIn**: [Rayam Fonsêca](https://www.linkedin.com/in/rayam-fons%C3%AAca-447934135/](https://www.linkedin.com/in/rayam-fons%C3%AAca-447934135/)
 
 Feel free to explore my repositories and projects. I'm always open to feedback and collaboration. Let's connect and create amazing things together!
