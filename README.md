@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**VoupraSP/VoupraSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a dedicated front-end developer from Brazil, passionate about creating beautiful and functional web experiences. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇧🇷 Front-end developer from Brazil
+- 📚 Studying front-end development
+- 🎨 Enthusiastic about web design and development
+
+## 🚀 Skills
+
+- **HTML**: Building structured and semantic web pages
+- **CSS**: Styling with modern techniques
+- **JavaScript**: Adding interactivity to web applications
+
+## 🌱 Currently Learning
+
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development
+- **React**: Building dynamic user interfaces
+
+## 📫 Get in Touch
+
+- **Email**: rayam.io.fonseca@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/rayam-fons%C3%AAca-447934135/)
+
+Feel free to explore my repositories and projects. I'm always open to feedback and collaboration. Let's connect and create amazing things together!
