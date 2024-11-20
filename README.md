@@ -1,6 +1,6 @@
 # Hi there, I'm Rayam. 👋
 
-Welcome to my GitHub profile! I'm a dedicated front-end developer from Brazil, passionate about creating beautiful and functional web experiences. Here's a bit about me:
+Welcome to my GitHub profile! I'm a junior front-end developer from Brazil, passionate about creating beautiful and functional web experiences. Here's a bit about me:
 
 ## 🌟 About Me
 
