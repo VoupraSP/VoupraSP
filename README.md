@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a junior front-end developer from Brazil, pass
 
 - 🇧🇷 Front-end developer from Brazil
 - 📚 Studying front-end development
+- 📚 Studying english
 - 🎨 Enthusiastic about web design and development
 
 ## 🚀 Skills
